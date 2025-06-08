@@ -56,7 +56,7 @@ sudo apt install iperf3 wireshark
 Veri alımını sağlayacak sunucu tarafını çalıştırın:
 
 ```bash
-python server.py
+python server_fragmentation.py
 ```
 
 ### 3️⃣ İstemciyi Çalıştırın
@@ -64,7 +64,7 @@ python server.py
 Veriyi şifreleyip gönderecek istemciyi başlatın:
 
 ```bash
-python client.py
+python client_fragmentation.py
 ```
 
 ### 4️⃣ Düşük Seviyeli IP Başlık Testi
