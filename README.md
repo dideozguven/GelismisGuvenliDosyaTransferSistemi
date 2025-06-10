@@ -126,7 +126,7 @@ Wi-Fi, VPN gibi farklı ağ türleri için performans testleri başarıyla yapı
 Gelecekte TLS/SSL gibi protokoller ve gelişmiş saldırı simülasyonları eklenerek proje geliştirilebilir.
 
 ## Proje Videosu
-➡️ 
+➡️ https://www.youtube.com/watch?v=Jpg6musObVI&t=2s
 
 ## 📚 Kaynakça
 Kurose, J. F., & Ross, K. W. (2017). Computer Networking: A Top-Down Approach (7th ed.). Pearson.
